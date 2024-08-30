@@ -1,5 +1,6 @@
 # Asteroids Clone
 Created as part of the path on Boot.dev
+
 ---
 
 ## Running the code
