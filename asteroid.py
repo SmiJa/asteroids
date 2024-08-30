@@ -4,8 +4,8 @@ from constants import *
 
 class Asteroid(CircleShape):
   containers =()
-  def __init__(self, x, y, ):
-    super().__init__(x, y, ASTEROID_MIN_RADIUS)
+  def __init__(self, x, y, radius):
+    super().__init__(x, y, radius)
     self.position = pygame.Vector2(x, y)
 
   def draw(self, screen):
