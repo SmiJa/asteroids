@@ -4,7 +4,7 @@ Created as part of the path on Boot.dev
 
 ## Running the code
 1. Clone the repository down
-2. Run command: pip install -r /path/to/requirements.txt
+2. Run command: pip install -r requirements.txt
 3. On Linux: Run command python3 main.py
 4. On Windows: Run command python main.py
 ---
